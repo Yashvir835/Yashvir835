@@ -16,6 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvir835&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="260"/>
 </div>
 
+
 ## 🏆 GitHub Trophies
 <img align='center' src='https://github.com/ThanhPham1987/ThanhPham1987/blob/main/contributions.svg' width='900"'> 
 
@@ -23,5 +24,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yashvir835&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashvir835&style=for-the-badge&color=orange" alt=""/>
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
