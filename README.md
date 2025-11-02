@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Onward in research of deep learning and computer vision.<br>
+🔭 Deep learning and Computer vision.<br>
 
 
 ## 🌐 Socials:
