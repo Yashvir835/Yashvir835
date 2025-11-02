@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Deep learning and Computer vision.<br>
+🔭 Riding the wave of Deep Learning and Computer Vision.<br>
 
 
 ## 🌐 Socials:
