@@ -70,8 +70,8 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: flex-end; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashvir835&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="260"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Yashvir835&theme=dark&hide_border=false" alt="Streak Stats" width="260"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=yashvir835&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="260"/>
+  <img src="https://streak-stats.demolab.com/?user=yashvir835&theme=dark&hide_border=false" alt="Streak Stats" width="260"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvir835&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="260"/>
 </div>
 
